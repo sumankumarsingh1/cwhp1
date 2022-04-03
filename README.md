@@ -1,2 +1,2 @@
-# cwhp1
-Java Project1
+# Java Project1
+A new repository to demo 
